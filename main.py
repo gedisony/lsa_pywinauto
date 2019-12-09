@@ -128,7 +128,7 @@ def list_users( app ):
     um=user_maintenance_screen( app )
     um.connect()
     #activity list not RMID
-    um.add_users_adv('1045755,1046342,1044992,1048965') 
+    um.add_users_adv('1077439,1077421,1077457,1048965') 
     um.find_now()
 
 
